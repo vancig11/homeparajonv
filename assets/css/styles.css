@@ -1,0 +1,53 @@
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+    margin: 0;
+    background: #abc9c7;
+    font-family: 'Franklin Gothic Medium' Arial, sans-serif;
+}
+
+li {
+    list-style-type: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.bioParajanov {
+    margin: 20px 0;
+}
+
+.bioName {
+    margin: 20px;
+}
+
+.imgPara {
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: 20px 40px;
+    width: 50%;
+    height: 20%;
+    float: left;
+}
+
+.social {
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin-right: 30px;
+    margin: 10px 10px;
+    padding: 10px auto;
+}
+
+footer {
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    color: white;
+}
